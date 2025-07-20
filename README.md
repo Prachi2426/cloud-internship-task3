@@ -1,4 +1,9 @@
-# cloud-internship-task3
+# CLOUD COMPUTING
+# Name - Prachi Gupta
+# Intern ID - CT08DL489
+# Domain - cloud computing
+# Duration- 8 weeks
+# Mentor - Neela Santosh
 #  Task 3 – Multi-Cloud Architecture (CodTech Internship)
 
 This repository contains my implementation and documentation for **Task 3: Design a Multi-Cloud Architecture**, completed as part of the **CodTech IT Solutions Cloud Computing Internship** (May 20, 2025 – July 20, 2025).
